@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cacedacc.chunk.css",
+    "main.js": "/static/js/main.35966dc6.chunk.js",
+    "main.js.map": "/static/js/main.35966dc6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a3b4aff8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a3b4aff8.js.map",
+    "static/js/2.1a417046.chunk.js": "/static/js/2.1a417046.chunk.js",
+    "static/js/2.1a417046.chunk.js.map": "/static/js/2.1a417046.chunk.js.map",
+    "static/js/3.d4daad8a.chunk.js": "/static/js/3.d4daad8a.chunk.js",
+    "static/js/3.d4daad8a.chunk.js.map": "/static/js/3.d4daad8a.chunk.js.map",
+    "653cdb1f145b87a1d3ac.worker.js": "/653cdb1f145b87a1d3ac.worker.js",
+    "653cdb1f145b87a1d3ac.worker.js.map": "/653cdb1f145b87a1d3ac.worker.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cacedacc.chunk.css.map": "/static/css/main.cacedacc.chunk.css.map",
+    "static/js/2.1a417046.chunk.js.LICENSE.txt": "/static/js/2.1a417046.chunk.js.LICENSE.txt",
+    "static/media/LogicBox1.0e6f408c.png": "/static/media/LogicBox1.0e6f408c.png",
+    "static/media/LogicBox2.bafcd668.png": "/static/media/LogicBox2.bafcd668.png",
+    "static/media/LogicBox3.b18949ce.png": "/static/media/LogicBox3.b18949ce.png",
+    "static/media/ballb.bd61ff39.jpg": "/static/media/ballb.bd61ff39.jpg",
+    "static/media/ballb2.d9cfc95d.jpg": "/static/media/ballb2.d9cfc95d.jpg",
+    "static/media/carpark1.bf4b3e15.png": "/static/media/carpark1.bf4b3e15.png",
+    "static/media/carpark2.1c8cbf27.png": "/static/media/carpark2.1c8cbf27.png",
+    "static/media/css.4e67641b.png": "/static/media/css.4e67641b.png",
+    "static/media/docker.5fd3d412.png": "/static/media/docker.5fd3d412.png",
+    "static/media/git.ff6ecf8b.png": "/static/media/git.ff6ecf8b.png",
+    "static/media/gitlab.7a33c1ef.png": "/static/media/gitlab.7a33c1ef.png",
+    "static/media/html5.23784160.png": "/static/media/html5.23784160.png",
+    "static/media/java.8d21d052.png": "/static/media/java.8d21d052.png",
+    "static/media/jenkins.c82a4adb.png": "/static/media/jenkins.c82a4adb.png",
+    "static/media/react.dacdd7b8.png": "/static/media/react.dacdd7b8.png",
+    "static/media/ss1.af85c850.png": "/static/media/ss1.af85c850.png",
+    "static/media/ss2.3f32617d.png": "/static/media/ss2.3f32617d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3b4aff8.js",
+    "static/js/2.1a417046.chunk.js",
+    "static/css/main.cacedacc.chunk.css",
+    "static/js/main.35966dc6.chunk.js"
+  ]
+}
